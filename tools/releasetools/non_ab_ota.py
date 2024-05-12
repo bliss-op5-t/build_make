@@ -217,7 +217,7 @@ else if get_stage("%(bcb_dev)s") == "3/3" then
   # Build info
   script.Print("**********************************************");
   script.Print("             PROJECT SAKURA ROM               ");
-  script.Print("                 ALPHA BUILD                  ");
+  script.Print("                 Version 9.1                  ");
   script.Print("           Based on LineageOS 21.0            ");
   script.Print("           By LordShenron & ReveRTX           ");
   script.Print("**********************************************");
